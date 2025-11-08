@@ -59,7 +59,8 @@ Every day, people make small promises to themselves — to stop a bad habit, to 
 
 - Firebase — this will handle our authentication (logins, sign ups, verificaion...) & data storage.
 
-GitHub Projects — for planning and issue tracking
+- GitHub Projects — for planning and issue tracking
+
 ---
 
 ## **Here's How It Works**

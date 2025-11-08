@@ -59,25 +59,25 @@ Every day, people make small promises to themselves, to stop a bad habit, to do 
 
 ## **Key Features**
 
-- **Habit Focus Setup** — Add the things you want to stop or improve (fully customizable, but, max habits = 15 for focus).
-- **Daily Reflections** — Log what you did/didn’t do and write what caused it.
-- **Progress Tracker** — Visualize your healing journey with progress charts.
-- **Self-Counselling Prompts** — Gentle questions to guide your reflections.
-- **Reminders** — Stay consistent with optional daily check-ins.
-- **Minimal, calming UI** — A distraction-free environment for personal growth.
+- **Habit Focus Setup:** Add the things you want to stop or improve (fully customizable, but, max habits = 15 for focus).
+- **Daily Reflections:** Log what you did/didn’t do and write what caused it.
+- **Progress Tracker:** Visualize your healing journey with progress charts.
+- **Self-Counselling Prompts:** Gentle questions to guide your reflections.
+- **Reminders:** Stay consistent with optional daily check-ins.
+- **Minimal, calming UI:** A distraction-free environment for personal growth.
 ---
 
 ## **What's the Tech behind Kansella?**
 
-- **Flutter —**  we're using flutter for cross-platform app development (Android/iOS).
+- **Flutter:**  we're using flutter for cross-platform app development (Android/iOS).
 
-- **Firebase Authentication** — secure sign-in and user management.
+- **Firebase Authentication:** secure sign-in and user management.
 
-- **Firebase Firestore** — cloud-based storage for reflections and progress.
+- **Firebase Firestore:** cloud-based storage for reflections and progress.
 
-- **Charts Package** — lightweight library for progress visualization.
+- **Charts Package:** lightweight library for progress visualization.
 
-- **Figma** — for wireframing and prototyping.
+- **Figma:** for wireframing and prototyping.
 
 ---
 

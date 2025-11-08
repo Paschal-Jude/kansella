@@ -1,2 +1,2 @@
 # kansella
-I built this app for people who need help in discovering, changing, and healing from the wrong habits, while tracking progress over time. It's a Self Counseling App.
+> Kansella is a self-counselling app that helps you discover yourself, change unwanted habits, and track your healing journey through daily reflection and progress tracking.

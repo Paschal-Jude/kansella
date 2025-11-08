@@ -10,7 +10,7 @@ It’s built for people who want to take charge of their self-improvement — qu
 
 ---
 
-## **Our Story**
+## **Our Story...**
 
 Kansella was born from a simple question:
 
@@ -23,7 +23,19 @@ It’s a safe, personal space for the **quiet moments of honesty** we have with 
 More than that, you'll never stutter when your conscience accuses you of not getting better at stopping bad habits, 'cos you can track the days you did/didn't do it. You either brag or fix up. 
 
 ---
+## **What Is Kansella?**
 
+Kansella is not just another productivity or mental health app, it’s a personal space where **you become your own counsellor**.
+
+Every day, **Kansella guides you to:**
+- Reflect on what you did (or didn’t do).
+- Discover the “why” behind your actions.
+- Track your progress visually.
+- See how far you’ve come, one small win at a time.
+
+*It’s a **safe, judgment-free zone** for people who want to improve without waiting for someone else to fix them.*
+
+---
 ## **Why Kansella Matters**
 
 Every day, people make small promises to themselves, to stop a bad habit, to do better, to heal... Yet, life moves fast, and **they forget to track it.** Kansella provides a gentle daily space for reflection and accountability, helping users see how far they’ve come and what still needs work.
@@ -87,6 +99,8 @@ Every day, people make small promises to themselves, to stop a bad habit, to do 
 
 - Mood-Habit Correlation Graph: Visualize how emotions affect habits.
 
+- Daily Mood Indicator.
+
 - Voice Notes: Users can talk to the app instead of typing.
 
 ---
@@ -110,11 +124,10 @@ It’s here to **bridge the gap between silence and healing** — one reflection
 
 ## **Links**
 
-- Prototype / UI Design
+- [Basic User flow.](https://www.figma.com/board/hdei8jtUWQZpWcGCTy3f8h/User-Flow-Diagram-for-Kansella?node-id=0-1&t=HX1AS53Xzm8P23H7-1)
 
-- [GitHub Repository (here)](https://github.com/Paschal-Jude/kansella.git)
+- [GitHub Repository (here).](https://github.com/Paschal-Jude/kansella.git)
 
-- Product Brief Document
 ---
 
 ## **Wanna Contribute? Let's have it!**

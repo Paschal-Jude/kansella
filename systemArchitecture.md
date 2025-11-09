@@ -103,6 +103,8 @@ The architecture follows a pretty simple **client-serverless model** where the m
     - actionPoints: string
     - progress: { streakCount, weeklyReport }
 
+<ins>**NB:**</ins> The data model isn't limited to this, it can be changed. This is just an overview of its structure.
+
 
 **Data Flow Summary**
 1. User inputs reflection -> App writes data to Firestore.  
@@ -112,7 +114,24 @@ The architecture follows a pretty simple **client-serverless model** where the m
 
 ---
 
-## Summary
+## **Why This Approach Is Technically Feasible**
+
+- Kansella’s architecture is lightweight, scalable, and built with proven, serverless technologies.
+
+- Flutter + Firebase enables rapid cross-platform development with minimal setup.
+
+- Serverless backend removes infrastructure maintenance while scaling automatically.
+
+- Firestore provides real-time sync, strong security rules, and offline support.
+
+- Cloud Functions automate background tasks like reminders and analytics.
+
+- Google Cloud infrastructure ensures reliability, uptime, and global performance.
+
+In short, this approach minimizes cost and complexity while providing a solid, secure foundation that can easily grow with user demand.
+
+--- 
+## **Summary**
 
 The Kansella architecture is lightweight, scalable, and secure.
 By leveraging **Flutter + Firebase**, the app achieves:
@@ -125,3 +144,4 @@ This system design supports rapid MVP delivery while maintaining the flexibility
 ---
 **Note for Developers:** The content of ths document focuses mainly on the MVP version. We want it fast, so we're building it lean.
 
+---
